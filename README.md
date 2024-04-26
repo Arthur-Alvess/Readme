@@ -1,5 +1,7 @@
 # Readme
 
+Arthur Augusto Alves Araújo
+
 Importância do Portfólio
 
 Um portfólio é super importante para desenvolvedores que querem mostrar o que podem fazer e o que fizeram. Então, aqui está porque você precisa de um portfólio:
